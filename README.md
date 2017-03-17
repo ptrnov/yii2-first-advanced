@@ -18,11 +18,13 @@ Documentation is at [docs/guide/README.md](docs/guide/README.md).
 
 CREATE DEAFAULT YII2
 --------------------
+```
 name 		: yii2-first-advanced
 git			: git clone https://github.com/ptrnov/yii2-first-advanced.git
 includes	: Default config,default vendor, dump sql table_user
 Modify By	: ptr.nov@gmail.com.
 Since		: 03/18/2017
+```
 
 DIRECTORY STRUCTURE
 -------------------
