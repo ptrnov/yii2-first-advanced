@@ -24,6 +24,7 @@ git		: git clone https://github.com/ptrnov/yii2-first-advanced.git
 includes	: Default config,default vendor, dump sql table_user (import table)
 Modify By	: ptr.nov@gmail.com.
 Since		: 03/18/2017
+Size 		: 65.3 MB
 ```
 
 DIRECTORY STRUCTURE
