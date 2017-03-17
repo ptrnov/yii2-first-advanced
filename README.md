@@ -16,6 +16,14 @@ Documentation is at [docs/guide/README.md](docs/guide/README.md).
 [![Total Downloads](https://poser.pugx.org/yiisoft/yii2-app-advanced/downloads.png)](https://packagist.org/packages/yiisoft/yii2-app-advanced)
 [![Build Status](https://travis-ci.org/yiisoft/yii2-app-advanced.svg?branch=master)](https://travis-ci.org/yiisoft/yii2-app-advanced)
 
+CREATE DEAFAULT YII2
+--------------------
+name 		: yii2-first-advanced
+git			: git clone https://github.com/ptrnov/yii2-first-advanced.git
+includes	: Default config,default vendor, dump sql table_user
+Modify By	: ptr.nov@gmail.com.
+Since		: 03/18/2017
+
 DIRECTORY STRUCTURE
 -------------------
 
